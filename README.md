@@ -78,7 +78,7 @@ ssh ec2-user@ip -i <key>
 ```
 curl localhost 8000
 ```
-![Uploading image.png…]()
+![Uploading image.png…]
 
 12. mencoba akses melalui tampilan web berhasil
 
