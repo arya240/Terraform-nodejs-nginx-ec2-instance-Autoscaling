@@ -35,6 +35,8 @@ resource "aws_instance" "gogoec2" {
       "sudo curl -sL https://rpm.nodesource.com/setup_11.x | sudo -E bash -",
       "sudo yum -y install nodejs",
       "sudo yum -y install python-setuptools",
+      "pip install supervisor",
+      "sudo easy_install supervisor",
     ]
   }
   provisioner "file" {
