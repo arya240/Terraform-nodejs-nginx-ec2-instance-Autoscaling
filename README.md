@@ -10,7 +10,7 @@ Yang dibutuhkan antara lain :
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/75195337/206867156-c9a79103-0a73-4f94-8441-7005eabd6f6c.png">
 
 
-**Instance yang dibuat teraform berikut**
+**hasil Instance yang dibuat  dari teraform berikut**
 <img width="952" alt="image" src="https://user-images.githubusercontent.com/75195337/206867127-aae25eb7-9285-4063-804f-8ae5de93cdfd.png">
 
 
