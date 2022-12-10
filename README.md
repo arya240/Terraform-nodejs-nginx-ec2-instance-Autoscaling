@@ -6,6 +6,15 @@ Yang dibutuhkan antara lain :
 - Menggunakan satu ec2  : ( "os : ubuntu 18.04" "flavor : t2.large 2 cpu Ram 8 gb"
 -  Terraform dengan version v0.11.15
 
+**instance yang digunakan untuk test berikut**
+<img width="956" alt="image" src="https://user-images.githubusercontent.com/75195337/206867156-c9a79103-0a73-4f94-8441-7005eabd6f6c.png">
+
+
+**Instance yang dibuat teraform berikut**
+<img width="952" alt="image" src="https://user-images.githubusercontent.com/75195337/206867127-aae25eb7-9285-4063-804f-8ae5de93cdfd.png">
+
+
+
 1. Membuat file main.tf yang isinya adalah untuk melakukan provisioning membuat ec2 dan configurasi node.js yang akan di tuujukan pada file variable .tf
 
 <img width="866" alt="image" src="https://user-images.githubusercontent.com/75195337/206864203-d21b2f52-7217-4fd2-ad6d-32333ed96dd6.png">
