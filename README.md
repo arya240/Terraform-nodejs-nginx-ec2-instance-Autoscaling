@@ -78,7 +78,7 @@ ssh ec2-user@ip -i <key>
 ```
 curl localhost 8000
 ```
-![Uploading image.png…]
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/75195337/206866962-c26deb20-1109-409b-863b-2a3ec12256da.png">
 
 12. mencoba akses melalui tampilan web berhasil
 
