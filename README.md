@@ -1,4 +1,4 @@
-STEP PENGERJAAN TEST-DEVOPS
+STEP PENGERJAAN 
 
 Yang dibutuhkan antara lain :
 
